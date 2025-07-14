@@ -1,0 +1,3 @@
+✅ Numero de dias alugados tem que ser maior que 0
+✅ Data em que o livro foi alugado não pode ser nula
+✅ Retornar a data de devolução do livro validando a quantidade de dias alugados
