@@ -1,0 +1,53 @@
+.cardWrapper {
+  color: #BCBCBC;
+
+  width: 486px;
+  height: 431px;
+
+  background-color: #171D1F;
+
+  border-radius: 8px;
+
+  overflow: hidden;
+}
+
+.cardWrapper h2 {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.cardWrapper p {
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.cardWrapper a {
+  color: #81FE88;
+
+  font-size: 18px;
+}
+
+.imageWrapper {
+  padding: 24px;
+
+  background-color: #888888;
+}
+
+.imageWrapper img {
+  border-radius: 8px;
+}
+
+.bodyWrapper {
+  display: flex;
+  flex-direction: column;
+
+  gap: 8px;
+
+  margin: 16px 16px 32px;
+}
+
+.footer {
+  display: flex;
+
+  width: 100%;
+}

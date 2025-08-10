@@ -1,0 +1,25 @@
+.gridWrapper {
+  display: grid;
+
+  grid-template-columns: 1fr 1fr;
+
+  gap: 24px;
+
+  margin-left: 3px;
+}
+
+.navigationWrapper {
+  display: flex;
+  
+  justify-content: center;
+  align-items: center;
+
+  gap: 24px;
+
+  margin: 56px 0 0;
+}
+
+.navigationWrapper a {
+  font-size: 18px;
+  color: #bfffc3;
+}

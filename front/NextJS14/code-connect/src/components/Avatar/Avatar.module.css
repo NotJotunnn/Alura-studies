@@ -1,0 +1,27 @@
+.avatarWrapper {
+  display: flex;
+
+  justify-content: center;
+  align-content: center;
+
+  height: 32px;
+
+  gap: 8px;
+
+  margin: 0 16px 28px auto;
+
+  list-style: none;
+
+  color: #888888;
+}
+
+.avatarWrapper li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 100%;
+
+  font-size: 15px;
+  font-weight: 600;
+}
